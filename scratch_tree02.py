@@ -273,65 +273,6 @@ def decision_tree(train, test, max_depth, min_size):
 	return(predictions)
 
 
-#########################################################
-n_folds = 5
-max_depth = 10
-min_size = 1
-dataset = df
-
-######################################################
-n_folds = 5
-max_depth = 20
-min_size = 1
-dataset = df
-
-
-######################################################
-n_folds = 5
-max_depth = 40
-min_size = 1
-dataset = df
-
-
-######################################################
-n_folds = 5
-max_depth = 80
-min_size = 1
-dataset = df
-
-
-###################################################
-        
-n_folds = 5
-max_depth = 10
-min_size = 5
-dataset = df
-
-
-
-###################################################
-
-n_folds = 5
-max_depth = 10
-min_size = 10
-dataset = df
-
-
-###################################################
-n_folds = 5
-max_depth = 10
-min_size = 20
-dataset = df
-
-
-##################################################
-
-n_folds = 5
-max_depth = 10
-min_size = 25
-dataset = df
-
-######################################################
 
 
 import time 
